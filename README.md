@@ -1,6 +1,6 @@
 # MEMORY-GAME
 This is a grid based game made with Vanilla JavaScript, HTML and CSS.
-This is also known as Concentration Card Game or Matching Game, in which the player needs to match pairs of cards by turning over the cards one at a time.
+This is also known as Concentration Card Game or Matching Game, in which the player needs to match pairs of cards by flipping over the cards one at a time.
 
 Inbuilt Functions used in the code:
 
@@ -18,4 +18,4 @@ Rules of the Game:
 2. If the next card the player flips matches the previous one, player will get a score of +1.
 3. The matched cards will then disappear from the grid, player needs to focus on other remaining cards now.
 4. If the next card the player flips does not match the previous one, a pop up alert notifies the player about this and both the cards will flip back.
-5. The game will continue until the cards are matched.
+5. The game will continue until all the cards are matched.
